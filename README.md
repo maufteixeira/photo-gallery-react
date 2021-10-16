@@ -1,10 +1,11 @@
+![image](https://user-images.githubusercontent.com/80171172/137595366-01fb0a4c-ec05-4e4d-90a2-3eb1bc290667.png)
 
 
 # Galeria de Fotos
 
 Galeria de fotos construída com ReactJS (Typescript), utilizando o armazenamento do Firebase.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
